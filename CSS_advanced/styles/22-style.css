@@ -1,0 +1,16 @@
+/* styles/22-style.css */
+
+/* Style the footer-address class */
+.footer-address {
+    color: var(--text-color); /* Set the color of the text to the text-color property */
+  }
+  
+  /* Style the social-link class */
+  .social-link {
+    display: block; /* Render as a block element */
+  }
+  
+  /* Style the svg children of the social-link class */
+  .social-link svg {
+    fill: var(--text-color); /* Fill in the color of the svg children with the text-color variable */
+  }
